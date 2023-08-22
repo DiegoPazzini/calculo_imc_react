@@ -5,7 +5,7 @@ import Header from './Components/Header';
 import Resultado from './Components/Resultado';
 
 function App() {
-  const [imc, setImc] = useState();
+  const [imc, setImc] = useState(0);
   const [situacaoIMC, setSituacaoIMC] = useState('');
 
   useEffect(() => {
