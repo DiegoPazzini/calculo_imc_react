@@ -13,3 +13,9 @@
   width: min(100% - 30px, 1440px);
   margin: 0 auto;
 }
+
+@media (max-width: 800px) {
+  .flex-item-right, .flex-item-left {
+    flex: 100%;
+  }
+}
