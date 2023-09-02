@@ -3,7 +3,7 @@ Projeto desenvolvido com React. Página de cáculo de IMC (índice de massa corp
 
 <h1>Visualização Online</h1>
 A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:
-Página com informações do Github: https://calculo-imc-react-phi.vercel.app/
+https://calculo-imc-react-phi.vercel.app/
 
 <h2>
     Pré-visualização
